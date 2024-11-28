@@ -11,6 +11,7 @@
                 $color = Painel::colorGroup($id);
                 if(empty($staffs) || $id == 0){
                     continue;
+                    
                 }
             ?>
                 <div class="equipe-category">
