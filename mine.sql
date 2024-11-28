@@ -42,7 +42,6 @@ CREATE TABLE `tb_admin.usuario` (
 
 INSERT INTO `tb_admin.usuario` (`id`, `user`, `password`, `nome`, `cargo`, `token`) VALUES
 (8, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'Clover', 8, ''),
-(21, 'demon', '4297f44b13955235245b2497399d7a93', 'DEM0NYT', 7, '5f45d9acb0a20');
 
 -- --------------------------------------------------------
 
